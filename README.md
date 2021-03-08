@@ -1,16 +1,34 @@
 
-🚀 Tecnologias
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+> :rocketseat: O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
 
-HTML
-CSS
-JavaScript
+<p align="center">
+    <a href="README-pt.md">Portuguese</a>
+ </p>
 
-💻 Projeto
-O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
+<div align="center">
+  <sub> Projeto Master Discover. Construido com  ❤ por
+    <a href="https://github.com/AnaPaulaSouzaDias">Ana Paula</a>  
+  </sub>
+</div>
+
+<div>
+   <img src="./.github/layout.png" width="400px">
+   <img src="./.github/layout2.png" width="400px">
+</div>
+
+# :computer: Tecnologias
+Este projeto usou as seguintes tecnologias
+
+* [Html]  
+* [Css]
+* [Javascript]   
+     
+# Clonar repositorio
+$ git clone https://github.com/AnaPaulaSouzaDias/FinancasRocketseat
 
 
+Feito com amor por [Ana Paula Souza Dias](https://github.com/AnaPaulaSouzaDias) 🚀.
+Este projeto esta pela licença [MIT license](./LICENSE).
 
 
-📝 Licença
-Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Deixe uma ⭐ se este projeto te ajudou
